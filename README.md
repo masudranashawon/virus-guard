@@ -1,8 +1,8 @@
-## Tera Guard: An Antivirus Landing page application
+## Virus Guard: An Antivirus Landing page application
 
 ### What is Tera Guard?
 
-Tera Guard is an antivirus landing page designed to provide customers with a platform to purchase antivirus software. The page features a clean and modern design, allowing customers to easily navigate and learn about the various antivirus software options available. Built with HTML, CSS, and JavaScript, the landing page provides a seamless user experience, allowing customers to quickly and efficiently purchase the antivirus software they need. With its focus on ease-of-use and user-friendly design, Tera Guard is an ideal solution for those looking to protect their devices and data from threats.
+Virus Guard is an antivirus landing page designed to provide customers with a platform to purchase antivirus software. The page features a clean and modern design, allowing customers to easily navigate and learn about the various antivirus software options available. Built with HTML, CSS, and JavaScript, the landing page provides a seamless user experience, allowing customers to quickly and efficiently purchase the antivirus software they need. With its focus on ease-of-use and user-friendly design, Tera Guard is an ideal solution for those looking to protect their devices and data from threats.
 <br/>
 <br/>
 This project is a front-end design of the website, built using  HTML, CSS & JavaScript. Currently, the website does not include any functionality for user authentication.
@@ -30,7 +30,7 @@ code .
 
 ### View the app (Hosted on Netlify):
 
-https://tera-guard.netlify.app/
+https://virus-guard.netlify.app/
 
 ### Tools:
 
